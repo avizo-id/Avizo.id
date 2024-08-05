@@ -1,6 +1,6 @@
 # Halo, saya Aviz 👋
 
-Saya seorang penulis artikel di [Avizo.ID](https://www.avizo.id/) yang bersemangat dengan fokus pada pembahasan tentang dunia usaha offline maupun online. Saya senang berbagi pengetahuan dan wawasan melalui tulisan saya.
+Saya seorang penulis artikel di [Avizo.ID](https://www.avizo.id/) yang berfokus pada pembahasan tentang dunia usaha offline maupun online. Saya senang berbagi pengetahuan dan wawasan melalui tulisan saya.
 
 ## 📝 Artikel Terbaru
 
